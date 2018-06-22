@@ -1,0 +1,13 @@
+$textColor : blue;
+$fontStyle: helvetica;
+$primaryColor: black;
+
+.App {
+  color: $textColor;
+  font-style: $fontStyle;
+  // background-color: gray;
+}
+
+body {
+  background: blue;
+}
