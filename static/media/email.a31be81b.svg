@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Blueprint-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-322.000000, -1800.000000)" fill="#8A9BA8">
+            <g id="ROW_13" transform="translate(1.000000, 1795.000000)">
+                <g id="mail" transform="translate(200.000000, 4.000000)">
+                    <g id="mail_3_" transform="translate(121.000000, 1.000000)">
+                        <path d="M14.94,0 L1.06,0 L8,6.94 L14.94,0 Z M0,1.06 L0,10.94 L4.94,6 L0,1.06 Z M11.06,6 L16,10.94 L16,1.06 L11.06,6 Z M8.53,8.53 C8.39,8.67 8.21,8.75 8,8.75 C7.79,8.75 7.61,8.67 7.47,8.53 L6,7.06 L1.06,12 L14.94,12 L10,7.06 L8.53,8.53 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
