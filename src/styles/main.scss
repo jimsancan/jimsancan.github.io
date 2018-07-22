@@ -1,13 +1,18 @@
-$textColor : blue;
-$fontStyle: helvetica;
-$primaryColor: black;
+$background: #1a2d3c;
+$fontColor: white;
+$fontFamily: Avenir;
 
 .App {
-  color: $textColor;
-  font-style: $fontStyle;
-  // background-color: gray;
+  color: $fontColor;
+  background-color: $background;
+  font-family: $fontFamily;
 }
 
-body {
-  background: blue;
+.footer {
+  color: #457a9d;
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 2em;
+  margin-bottom: 3em;
+  font-size: 1.3em;
 }

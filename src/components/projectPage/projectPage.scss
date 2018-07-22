@@ -1,0 +1,46 @@
+$fontSize: 1.5em;
+
+.project-row {
+  margin: 1em;
+}
+
+.img-col {
+  margin: 1em;
+  margin-left: 2em;
+}
+
+.text {
+  line-height: 2;
+  font-size: $fontSize;
+  margin: 1em;
+  margin-right: 2em;
+}
+
+img {
+  border-radius: .5em;
+}
+
+.buttonDiv {
+  text-align: center;
+  margin: 1em;
+}
+
+.demoButton {
+  background: none;
+  color: inherit;
+  border: 2px solid white;
+  border-radius: 2em;
+  width: 10em;
+  padding: .5em;
+  &:hover {
+    cursor: pointer;
+    background: white;
+    color: black;
+  }
+}
+
+.tech {
+  margin-left: 1em;
+  font-size: $fontSize;
+  text-align: center;
+}

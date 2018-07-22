@@ -1,0 +1,33 @@
+.navbar {
+  margin-top: 2em;
+}
+
+.logo {
+  height: 5em;
+  margin-left: 1em;
+  margin-top: .5em;
+}
+
+.about {
+  color: #457a9d;
+  font-size: 2em;
+  &:hover { 
+    color: white; 
+  }
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+$marginLR: 2em;
+.link {
+  height: 3em;
+  width: 3em;
+  margin-left: $marginLR;
+  margin-right: $marginLR;
+  &:hover {
+    cursor: pointer;
+  }
+}
